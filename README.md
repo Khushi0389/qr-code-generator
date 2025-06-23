@@ -21,7 +21,9 @@ It allows users to generate QR codes for any input text or URL in various sizes 
 
 qr-code-generator/
 ├── index.html # Main HTML file
+
 ├── README.md # Project documentation
+
 └── (Optional assets like CSS or favicon)
 
 
