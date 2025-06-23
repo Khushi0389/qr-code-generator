@@ -3,7 +3,7 @@
 A simple and responsive QR Code Generator built with **HTML**, **CSS**, and **JavaScript**.  
 It allows users to generate QR codes for any input text or URL in various sizes using a free online API.
 
-![QR Code Generator Screenshot](qr-code-demo.png)
+![QR Code Generator Screenshot](qr-generator-demo.png)
 
 ## 🚀 Live Demo
 
